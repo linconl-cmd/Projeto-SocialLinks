@@ -4,4 +4,4 @@
 
 Imagem de como ficou :
 
-![Imagem de como ficou :](/public/assets/img/imagem%20do%20projeto.jpg)
+![Imagem de como ficou :](/public/assets/img/imagem%20melhor%20do%20projeto.jpg)
